@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0704-binary-search) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
