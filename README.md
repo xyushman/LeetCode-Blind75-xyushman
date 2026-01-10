@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0128-longest-consecutive-sequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0073-set-matrix-zeroes) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
 ## Tree
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
