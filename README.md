@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0054-spiral-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0141-linked-list-cycle) |
 ## String
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
