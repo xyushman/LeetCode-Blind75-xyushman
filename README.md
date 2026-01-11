@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
