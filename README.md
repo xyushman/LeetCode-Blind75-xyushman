@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0066-plus-one) |
+| [1266-minimum-time-visiting-all-points](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1390-four-divisors) |
 ## Greedy
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
