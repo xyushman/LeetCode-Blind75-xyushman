@@ -8,8 +8,9 @@ public:
             for(int j=i+1; j<n; j++){
                 unordered_set<long long> seen;
                 for(int k=j+1; k<n; k++){
-                    long long sum = nums[i]+nums[j]+nums[k];
-                    long long  r = (long long)target - (sum);
+                    long long sum = nums[i] + nums[j];
+                    sum+=nums[k];
+                    long long r = target - sum;
 
                     if(seen.find(r)!= seen.end()){
                         vector<int> temp = {nums[i],nums[j], nums[k], (int)r};
