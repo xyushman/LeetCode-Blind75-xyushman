@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0704-binary-search) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
