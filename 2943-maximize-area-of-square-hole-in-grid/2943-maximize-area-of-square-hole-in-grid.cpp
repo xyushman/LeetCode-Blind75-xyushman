@@ -1,0 +1,23 @@
+class Solution {
+public:
+
+    int maxSpan(vector<int>& bars){
+        if(bars.empty()) return 1;
+
+        int res = 1, streak = 1;
+
+        for(int i=1; i<bars.size(); i++){
+            if(bars[i]-bars[i-1]==1) streak++;
+            else streak =1;
+            res = max(streak,res);
+        }
+        return res+1;
+    }
+    int maximizeSquareHoleArea(int n, int m, vector<int>& hBars, vector<int>& vBars) {
+        sort(hBars.begin(),hBars.end());
+        sort(vBars.begin(),vBars.end());
+
+        int side = min(maxSpan(hBars),maxSpan(vBars));
+        return side*side;
+    }
+};
