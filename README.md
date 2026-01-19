@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0118-pascals-triangle) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [1895-largest-magic-square](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
