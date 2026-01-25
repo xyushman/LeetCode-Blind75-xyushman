@@ -102,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
