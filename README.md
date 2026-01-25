@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
+| [1021-remove-outermost-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
+| [1021-remove-outermost-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
