@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1200-minimum-absolute-difference](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1390-four-divisors](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1390-four-divisors) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
+| [1200-minimum-absolute-difference](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Counting
