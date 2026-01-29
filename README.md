@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [1200-minimum-absolute-difference](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -259,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
