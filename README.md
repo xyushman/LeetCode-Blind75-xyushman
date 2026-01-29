@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2943-maximize-area-of-square-hole-in-grid) |
