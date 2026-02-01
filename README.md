@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0066-plus-one) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1390-four-divisors) |
+| [1922-count-good-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -276,4 +277,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
