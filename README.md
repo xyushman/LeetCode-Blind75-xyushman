@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0152-maximum-product-subarray) |
+| [0799-champagne-tower](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3651-minimum-cost-path-with-teleportations) |
