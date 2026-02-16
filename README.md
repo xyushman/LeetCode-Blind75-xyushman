@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph Theory
 |  |
