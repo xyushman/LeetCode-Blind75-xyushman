@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0693-binary-number-with-alternating-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Heap (Priority Queue)
 |  |
