@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0190-reverse-bits) |
+| [0260-single-number-iii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0260-single-number-iii) |
 | [0401-binary-watch](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2220-minimum-bit-flips-to-convert-number) |
