@@ -1,24 +1,22 @@
 class Solution {
 public:
-    double cal(double x, long long n) {
-        if (n == 0) return 1.0;
-
-        double half = cal(x, n / 2);
-
-        if (n % 2 == 0)
-            return half * half;
-        else
-            return half * half * x;
-    }
-
     double myPow(double x, int n) {
-        long long N = n;  // prevent overflow
-
+        long long N = n;      // Prevent overflow
         if (N < 0) {
             x = 1 / x;
             N = -N;
         }
 
-        return cal(x, N);
+        double result = 1;
+
+        while (N > 0) {
+            if (N % 2 == 1) {     // If exponent is odd
+                result *= x;
+            }
+            x *= x;               // Square base
+            N /= 2;               // Divide exponent by 2
+        }
+
+        return result;
     }
 };
