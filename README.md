@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1390-four-divisors) |
 | [1922-count-good-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1922-count-good-numbers) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0260-single-number-iii) |
 | [0401-binary-watch](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Heap (Priority Queue)
