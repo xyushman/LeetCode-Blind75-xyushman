@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0260-single-number-iii) |
+| [0503-next-greater-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -253,12 +254,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0503-next-greater-element-ii) |
 ## Geometry
 |  |
 | ------- |
