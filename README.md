@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0056-merge-intervals) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0151-reverse-words-in-a-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0152-maximum-product-subarray) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0503-next-greater-element-ii) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0503-next-greater-element-ii) |
 ## Geometry
