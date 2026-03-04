@@ -1,8 +1,18 @@
 class Solution {
 public:
     static int minPartitions(string& n) {
-        char mxch = *max_element(n.begin(),n.end());
+        int cnt = 0;
 
-        return mxch - '0';
+        bool doContinue = true;
+
+        while(doContinue){
+            doContinue = false;
+
+            for(auto &i:n){
+                if(i >= '1') i-=1, doContinue=true;
+            }
+            cnt+=1;
+        }
+        return cnt-1;
     }
 };
