@@ -1,18 +1,23 @@
 class Solution {
 public:
-    static int minPartitions(string& n) {
-        int cnt = 0;
+    int minPartitions(string n) {
+        vector<int> digits;
 
-        bool doContinue = true;
-
-        while(doContinue){
-            doContinue = false;
-
-            for(auto &i:n){
-                if(i >= '1') i-=1, doContinue=true;
-            }
-            cnt+=1;
+        for(auto c:n){
+            digits.push_back(c-'0');
         }
-        return cnt-1;
+        int cnt=0;
+        while(true){
+            bool allZero = true;
+            for(int i=0; i<digits.size(); i++){
+                if(digits[i]>0){
+                    digits[i]--;
+                    allZero=false;
+                }
+            }
+            if(allZero) break;
+            cnt++;
+        }
+        return cnt;
     }
 };
