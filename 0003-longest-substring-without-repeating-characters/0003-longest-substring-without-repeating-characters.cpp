@@ -1,17 +1,21 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int n = s.size();
-        int left = 0, mxlen = 0;
-        map<char,int> lstseen;
-        for(int right = 0; right<n; right++){
-            char c = s[right];
-            if(lstseen.contains(c) && lstseen[c] >= left){ // IMP
-                left = lstseen[c]+1; // IMP
+        deque<int> dq;
+        int mx = INT_MIN;
+        int cnt = 0;
+        if(s.size()==0) return 0;
+        for(int i=0; i<s.size(); i++){
+            vector<int> hash(256,0);
+            for(int j=i; j<s.size(); j++){
+                if(hash[s[j]]==1) break;
+                
+                hash[s[j]]=1;
+
+                int len = j-i+1;
+                mx = max(mx,len);
             }
-            lstseen[c] = right; // IMP
-            mxlen = max(mxlen,right-left+1);
         }
-        return mxlen;
+        return mx;
     }
 };
