@@ -2,9 +2,8 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         deque<int> dq;
-        int mx = INT_MIN;
+        int mx = 0;
         int cnt = 0;
-        if(s.size()==0) return 0;
         for(int i=0; i<s.size(); i++){
             vector<int> hash(256,0);
             for(int j=i; j<s.size(); j++){
