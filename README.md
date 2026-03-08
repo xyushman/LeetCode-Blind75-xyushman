@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3634-minimum-removals-to-balance-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3713-longest-balanced-substring-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0152-maximum-product-subarray) |
 | [0799-champagne-tower](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3640-trionic-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Math
