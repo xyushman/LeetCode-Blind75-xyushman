@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1622-fancy-sequence) |
 | [1922-count-good-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1922-count-good-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
@@ -419,4 +421,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0155-min-stack) |
+| [1622-fancy-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
