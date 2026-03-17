@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
