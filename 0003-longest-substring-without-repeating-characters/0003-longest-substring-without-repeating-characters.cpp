@@ -1,19 +1,17 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        deque<int> dq;
-        int mx = 0;
-        int cnt = 0;
-        for(int i=0; i<s.size(); i++){
-            vector<int> hash(256,0);
-            for(int j=i; j<s.size(); j++){
-                if(hash[s[j]]==1) break;
-                
-                hash[s[j]]=1;
+        int n = s.size();
 
-                int len = j-i+1;
-                mx = max(mx,len);
+        map<char,int> mp;
+        int mx = 0;
+        int j =0;
+        for(int i=0; i<n; i++){
+            if(mp.find(s[i])!=mp.end()){
+                j = max(j,mp[s[i]]+1);
             }
+            mp[s[i]]=i;
+            mx = max(mx, i-j+1);
         }
         return mx;
     }
