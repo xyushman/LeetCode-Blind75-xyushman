@@ -232,12 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0144-binary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0144-binary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1382-balance-a-binary-search-tree) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0144-binary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1382-balance-a-binary-search-tree) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1021-remove-outermost-parentheses) |
