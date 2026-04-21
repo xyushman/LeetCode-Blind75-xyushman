@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0066-plus-one) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0118-pascals-triangle) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1382-balance-a-binary-search-tree) |
