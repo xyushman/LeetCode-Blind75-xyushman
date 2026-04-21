@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1266-minimum-time-visiting-all-points) |
@@ -476,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0155-min-stack) |
 | [1622-fancy-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2069-walking-robot-simulation-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
