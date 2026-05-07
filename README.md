@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3660-jump-game-ix) |
 | [3721-longest-balanced-subarray-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3640-trionic-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3660-jump-game-ix) |
 ## Math
 |  |
 | ------- |
