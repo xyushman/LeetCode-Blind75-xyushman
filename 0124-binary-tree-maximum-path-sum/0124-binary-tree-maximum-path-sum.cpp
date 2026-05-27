@@ -11,19 +11,22 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* node, int &maxsum){
-        if(node == nullptr) return 0;
+    int mxPath(TreeNode* root, int &mx){
+        if(root == nullptr) return 0;
 
-        int left = max(0,dfs(node->left,maxsum));
-        int right = max(0,dfs(node->right,maxsum));
+        int left = max(0, mxPath(root->left, mx));
+        int right = max(0, mxPath(root->right, mx));
 
-        maxsum = max(maxsum, left+right+node->val);
+        mx = max(mx, left + right + root->val);
 
-        return max(left,right)+node->val;
+        return max(left, right) + root->val;
     }
+
     int maxPathSum(TreeNode* root) {
-        int mxSum = INT_MIN;
-        dfs(root,mxSum);
-        return mxSum;
+        int mx = INT_MIN;
+
+        mxPath(root, mx);
+
+        return mx;
     }
 };
