@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0396-rotate-function) |
 | [0503-next-greater-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0540-single-element-in-a-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0874-walking-robot-simulation) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [0761-special-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0761-special-binary-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3713-longest-balanced-substring-i) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -443,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1382-balance-a-binary-search-tree) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -466,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
@@ -511,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0509-fibonacci-number) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
