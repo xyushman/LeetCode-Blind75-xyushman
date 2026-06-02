@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0767-reorganize-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0761-special-binary-string) |
+| [0767-reorganize-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1021-remove-outermost-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0761-special-binary-string) |
+| [0767-reorganize-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1200-minimum-absolute-difference) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
@@ -440,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0973-k-closest-points-to-origin) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
