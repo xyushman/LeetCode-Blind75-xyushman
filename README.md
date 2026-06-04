@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3454-separate-squares-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0696-count-binary-substrings) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
