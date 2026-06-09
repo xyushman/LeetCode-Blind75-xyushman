@@ -11,57 +11,39 @@
  */
 class Solution {
 public:
-    TreeNode* deleteNode(TreeNode* root, int key) {
-        TreeNode* parent = nullptr;
-        TreeNode* curr = root;
-
-        // finding the node to delete
-
-        while(curr && curr -> val != key){
-            parent = curr;
-
-            if(key < curr->val) curr = curr->left;
-            else curr = curr->right;
+    TreeNode* findMin(TreeNode* root){
+        while(root->left != nullptr){
+            root = root->left;
         }
+        return root;
+    }
+    TreeNode* deleteNode(TreeNode* root, int key) {
+        if(root == nullptr) return nullptr;
 
-        if(!curr) return root;
-
-
-        // case : node ke pass 0 or 1 child ho 
-        if(!curr->left || !curr->right){ // matlab ek child missing hota left ka ya right ka 
-            TreeNode* child = curr->left ? curr->left : curr->right;
-
-            if(!parent){
-                delete curr;
-                return child;
-            }
-
-            if(parent->left == curr) parent->left = child;
-            else parent->right = child;
-
-            delete curr;
+        if(key < root->val){
+            root->left = deleteNode(root->left,key);
+        }else if(key > root->val){
+            root->right = deleteNode(root->right, key);
         }else{
-            // case : node ke pass 2 childern h tho 
+            // node milgaya 
 
-            TreeNode* succParent = curr;
-            TreeNode* succ = curr->right;
+            // case 1: no left child
 
-            while(succ->left){
-                succParent = succ;
-                succ = succ->left;
+            if(root->left == nullptr){
+                TreeNode* temp = root->right;
+                delete root;
+                return temp;
             }
-
-            curr->val = succ->val;
-
-            if(succParent->left == succ){
-                succParent->left = succ->right;
-            }else{
-                succParent->right = succ->right;
+            // no right child
+            else if(root->right == NULL){
+                TreeNode* temp = root->left;
+                delete root;
+                return temp;
             }
-
-            delete succ;
-
-
+            // 2 child h tho
+            TreeNode* temp = findMin(root->right);
+            root->val = temp->val;
+            root->right = deleteNode(root->right,temp->val);
         }
         return root;
     }
