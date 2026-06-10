@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3689-maximum-total-subarray-value-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
 | ------- |
