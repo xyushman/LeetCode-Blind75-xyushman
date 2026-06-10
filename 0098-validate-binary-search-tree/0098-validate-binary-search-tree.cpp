@@ -11,42 +11,14 @@
  */
 class Solution {
 public:
-    bool isValidBST(TreeNode* root) {
-        stack<TreeNode*> st;
-        TreeNode* curr = root;
+    bool validate(TreeNode* node, long long low, long long high){
+        if(!node) return true;
 
-        long long prev = LLONG_MIN;
+        if(node->val <= low || node->val >= high) return false;
 
-        while(curr != nullptr || !st.empty()){
-            while(curr){
-                st.push(curr);
-                curr = curr->left;
-            }
-
-            curr = st.top();
-            st.pop();
-
-            if(curr->val <= prev) return false;
-
-            prev = curr->val;
-            curr = curr->right;
-        }
-        return true;
+        return validate(node->left,low,node->val) && validate(node->right,node->val, high);
     }
+    bool isValidBST(TreeNode* root) {
+        return validate(root,LLONG_MIN,LLONG_MAX);
+    } 
 };
-
-
-/*
-        5
-       / \
-      3   7
-     / \
-    2   4
-
-    st = [7]
-
-    prev = 5
-    curr = 7
-
-
-*/
