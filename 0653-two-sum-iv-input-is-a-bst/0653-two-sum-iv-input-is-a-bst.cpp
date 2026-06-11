@@ -22,13 +22,13 @@ public:
 
     bool findTarget(TreeNode* root, int k) {
         inOrder(root);
-        if(v.size() < 2) return false;
-        for(int i=0; i<v.size(); i++){
-            auto it = find(v.begin(), v.end(),(k-v[i]));
-            if( it != v.end()){
-                int idx = it - v.begin();
-                if(idx != i) return true;
-            }
+        int l =0, r = v.size()-1;
+
+        while(l<r){
+            int val = v[l]+v[r];
+            if(val == k) return true;
+            else if(val < k) l++;
+            else r--;
         }
         return false;
     }
