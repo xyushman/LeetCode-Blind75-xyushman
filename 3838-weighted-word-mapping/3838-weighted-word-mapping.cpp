@@ -8,8 +8,7 @@ public:
             for(auto &j:words[i]){
                 sum+=weights[j-'a'];
             }
-            int mod = sum%26;
-            s+=('z'-mod);
+            s+=('z'-sum%26);
         }
         return s;
     }
