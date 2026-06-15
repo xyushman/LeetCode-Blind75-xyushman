@@ -29,6 +29,6 @@ public:
 
         curr->next = curr->next->next;
 
-        return dummy->next;
+        return head;
     }
 };
