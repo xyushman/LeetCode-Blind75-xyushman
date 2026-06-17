@@ -1,15 +1,30 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size(), m = nums2.size();
-        vector<int> mergerArr;
+        if(nums1.size() > nums2.size()) return findMedianSortedArrays(nums2,nums1);
 
-        for(auto &i:nums1) mergerArr.push_back(i);
-        for(auto &i:nums2) mergerArr.push_back(i);
+        int n = nums1.size();
+        int m = nums2.size();
 
-        sort(mergerArr.begin(),mergerArr.end());
-        int mid = (m+n)/2;
-        if((m+n)%2 ==0 ) return (double)(mergerArr[mid]+mergerArr[mid-1])/2;
-        else return mergerArr[mid];
+        int low =0, high = n;
+
+        while(low<=high){
+            int cnt1 = (low+high)/2;
+            int cnt2 = (n+m+1)/2 - cnt1;
+
+            int left1 = (cnt1 ==0) ? INT_MIN: nums1[cnt1-1];
+            int right1 = (cnt1==n )? INT_MAX: nums1[cnt1];
+
+            int left2 = (cnt2==0) ? INT_MIN: nums2[cnt2-1];
+            int right2 = (cnt2==m)? INT_MAX: nums2[cnt2];
+
+            if(left1 <= right2 && left2<= right1){
+                if((n+m)%2==0) return (max(left1,left2)+ min(right1,right2))/2.0;
+                else return max(left1, left2);
+            }else if(left1 > right2){
+                high = cnt1 -1;
+            }else low = cnt1+1;
+        }
+        return 0.0;
     }
 };
