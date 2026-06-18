@@ -1,37 +1,24 @@
 class Solution {
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+
+
+    void dfs(vector<vector<int>>& image, int i, int j, int newclr, int orgclr){
         int n = image.size();
         int m = image[0].size();
-        int oldclr = image[sr][sc];
 
-        if(oldclr == color) return image;
-        
+        if(i<0 || j<0 || i>=n || j>=m || image[i][j] != orgclr || image[i][j] == newclr) return;
 
-        queue<pair<int,int>> q;
+        image[i][j] = newclr;
 
-        q.push({sr,sc});
+        dfs(image,i-1,j,newclr,orgclr);
+        dfs(image,i+1,j,newclr,orgclr);
+        dfs(image,i,j-1,newclr,orgclr);
+        dfs(image,i,j+1,newclr,orgclr);
+    }
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
 
-        image[sr][sc] = color;
+        dfs(image,sr,sc,color, image[sr][sc]);
 
-        int dx[] = {-1,+1,0,0};
-        int dy[] = {0,0,-1,+1};
-
-        while(!q.empty()){
-            auto [r,c] = q.front();
-            q.pop();
-
-
-            for(int k=0; k<4; k++){
-                int nr = r+dx[k];
-                int nc = c+dy[k];
-
-                if(nr>=0 && nr<n && nc>=0 && nc<m && image[nr][nc] == oldclr){
-                    image[nr][nc] = color;
-                    q.push({nr,nc});
-                }
-            }
-        }
         return image;
     }
 };
