@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0692-top-k-frequent-words) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0799-champagne-tower) |
@@ -633,4 +635,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
