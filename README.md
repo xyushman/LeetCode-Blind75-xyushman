@@ -629,4 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1833-maximum-ice-cream-bars) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
