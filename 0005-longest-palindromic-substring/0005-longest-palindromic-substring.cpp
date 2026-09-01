@@ -1,30 +1,29 @@
 class Solution {
 public:
-        string longestPalindrome(string s) {
-        if (s.empty()) return "";
 
-        int start = 0, end = 0;
+    int expand(string &s, int l,int r){
+        while(l>=0 && r<s.size() &&  s[l]==s[r]){
+            l--,r++;
+        }
+        return r-l-1;
+    }
+    string longestPalindrome(string s) {
+        int n = s.size();
 
-        // Lambda to expand around center
-        auto expand = [&](int left, int right) -> int {
-            while (left >= 0 && right < s.size() && s[left] == s[right]) {
-                left--;
-                right++;
-            }
-            return right - left - 1; // length of palindrome
-        };
+        int start=0;
+        int mxlen=1;
 
-        for (int i = 0; i < s.size(); i++) {
-            int len1 = expand(i, i);       // odd length palindrome
-            int len2 = expand(i, i + 1);   // even length palindrome
-            int maxlen = max(len1, len2);  // corrected variable name
+        for(int i=0; i<n; i++){
+            int l1 = expand(s,i,i);
+            int l2 = expand(s,i,i+1);
 
-            if (maxlen > end - start) {    // use maxlen, not max_len
-                start = i - (maxlen - 1) / 2;
-                end = i + maxlen / 2;
+            int len = max(l1,l2);
+
+            if(len>mxlen){
+                mxlen=len;
+                start = i-(len-1)/2;
             }
         }
-
-        return s.substr(start, end - start + 1);
+        return s.substr(start,mxlen);
     }
 };
