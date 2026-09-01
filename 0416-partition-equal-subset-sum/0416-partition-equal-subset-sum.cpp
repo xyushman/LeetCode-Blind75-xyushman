@@ -1,39 +1,22 @@
 class Solution {
 public:
-    bool solve(int i, vector<int>& nums, int sum,
-               vector<vector<int>>& dp) {
+    bool solve(int i, vector<int> &nums, int sum,vector<vector<int>> &dp){
+        int n = nums.size();
+        if(sum==0) return true;
+        if(i==n) return false;
+
+        if(dp[i][sum]!=-1) return dp[i][sum];
         
-        if (sum == 0)
-            return true;
-
-        if (i == nums.size())
-            return false;
-
-        if (dp[i][sum] != -1)
-            return dp[i][sum];
-
-        bool notTake = solve(i + 1, nums, sum, dp);
-
         bool take = false;
-        if (nums[i] <= sum)
-            take = solve(i + 1, nums, sum - nums[i], dp);
-
-        return dp[i][sum] = take || notTake;
+        if(nums[i]<=sum) take = solve(i+1,nums,sum-nums[i],dp);
+        return dp[i][sum] = solve(i+1,nums,sum,dp) || take;
     }
-
     bool canPartition(vector<int>& nums) {
-        int totalSum = accumulate(nums.begin(), nums.end(), 0);
+        int n= nums.size();
+        int sum = accumulate(nums.begin(),nums.end(),0);
 
-        if (totalSum % 2 != 0)
-            return false;
-
-        int target = totalSum / 2;
-
-        vector<vector<int>> dp(
-            nums.size(),
-            vector<int>(target + 1, -1)
-        );
-
-        return solve(0, nums, target, dp);
+        if(sum%2!=0) return false;
+        vector<vector<int>> v(n, vector<int> (sum/2+1,-1));
+        return solve(0,nums,sum/2,v);
     }
 };
