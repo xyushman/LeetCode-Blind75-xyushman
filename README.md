@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1833-maximum-ice-cream-bars) |
 | [1895-largest-magic-square](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
