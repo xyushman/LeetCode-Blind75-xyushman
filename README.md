@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0733-flood-fill) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1248-count-number-of-nice-subarrays) |
 | [1895-largest-magic-square](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1895-largest-magic-square) |
 | [3714-longest-balanced-substring-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3714-longest-balanced-substring-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0767-reorganize-string) |
