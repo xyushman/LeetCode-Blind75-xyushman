@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0070-climbing-stairs) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1922-count-good-numbers) |
