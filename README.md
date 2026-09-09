@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3871-count-commas-in-range-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
