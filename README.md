@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3454-separate-squares-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1980-find-unique-binary-string) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3713-longest-balanced-substring-i) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0204-count-primes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
