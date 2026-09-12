@@ -1,22 +1,24 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        set<int> st;
+        unordered_set<int> seen;
 
-        for(int i=0; i<digits.size(); i++){
-            for(int j=0; j<digits.size(); j++){
-                for(int k=0; k<digits.size(); k++){
-                    if(i==j || i==k || j==k) continue;
+        int n = digits.size();
 
-                    if(digits[i]==0) continue;
+        for(int h=0; h<n; h++){
+            if(digits[h]==0) continue;
 
-                    if(digits[k]%2!=0) continue;
+            for(int t=0; t<n; t++){
+                if(t==h) continue;
 
-                    int num = digits[i]*100+digits[j]*10+digits[k];
-                    st.insert(num); 
+                for(int u=0; u<n; u++){
+                    if(u==h || u==t) continue;
+                    if(digits[u]%2!=0) continue;
+                    int num = digits[h]*100+digits[t]*10+digits[u];
+                    seen.insert(num);
                 }
             }
         }
-        return st.size();
+        return seen.size();
     }
 };
