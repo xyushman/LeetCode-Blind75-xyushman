@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0994-rotting-oranges) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0799-champagne-tower) |
+| [0931-minimum-falling-path-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0931-minimum-falling-path-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1582-special-positions-in-a-binary-matrix) |
