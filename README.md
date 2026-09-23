@@ -697,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
