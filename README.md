@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0396-rotate-function) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0416-partition-equal-subset-sum) |
@@ -718,4 +721,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
