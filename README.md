@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0994-rotting-oranges) |
 | [1463-cherry-pickup-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1895-largest-magic-square) |
