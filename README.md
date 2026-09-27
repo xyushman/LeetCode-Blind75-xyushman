@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0209-minimum-size-subarray-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0451-sort-characters-by-frequency) |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
@@ -732,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0300-longest-increasing-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
