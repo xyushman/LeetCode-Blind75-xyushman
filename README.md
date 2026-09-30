@@ -747,4 +747,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
