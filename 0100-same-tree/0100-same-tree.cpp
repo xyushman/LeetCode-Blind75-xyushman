@@ -11,13 +11,25 @@
  */
 class Solution {
 public:
-    bool isid(TreeNode* p, TreeNode* q) {
-        if(p==nullptr && q==nullptr) return true;
-        if(p==nullptr || q==nullptr) return false;
-
-        return (p->val==q->val) && isid(p->left,q->left) && isid(p->right,q->right);
-    }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        return isid(p,q);
+        queue<pair<TreeNode*, TreeNode*>> qNodes;
+
+        qNodes.push({p,q});
+
+        while(!qNodes.empty()){
+            auto [nodep, nodeq] = qNodes.front();
+
+            qNodes.pop();
+
+            if(nodep == nullptr && nodeq==nullptr) continue;
+
+            if(nodep == nullptr || nodeq == nullptr) return false;
+
+            if(nodep->val != nodeq->val) return false;
+
+            qNodes.push({nodep->left,nodeq->left});
+            qNodes.push({nodep->right,nodeq->right});
+        }
+        return true;
     }
 };
