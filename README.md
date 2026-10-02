@@ -750,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## DP on Trees
 |  |
