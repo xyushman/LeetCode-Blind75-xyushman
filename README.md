@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
