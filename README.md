@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3660-jump-game-ix) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
