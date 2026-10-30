@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3714-longest-balanced-substring-ii) |
 | [3838-weighted-word-mapping](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3838-weighted-word-mapping) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3871-count-commas-in-range-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3875-construct-uniform-parity-array-i) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Greedy
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3713-longest-balanced-substring-i) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
 |  |
 | ------- |
