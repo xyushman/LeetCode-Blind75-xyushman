@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0518-coin-change-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0788-rotated-digits) |
