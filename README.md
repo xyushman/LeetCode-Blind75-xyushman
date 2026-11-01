@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3340-check-balanced-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3714-longest-balanced-substring-ii) |
