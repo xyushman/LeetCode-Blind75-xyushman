@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1622-fancy-sequence) |
 | [1922-count-good-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1922-count-good-numbers) |
+| [2544-alternating-digit-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2544-alternating-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
