@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2104-sum-of-subarray-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2643-row-with-maximum-ones) |
 | [2747-count-zero-request-servers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2747-count-zero-request-servers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1980-find-unique-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1980-find-unique-binary-string) |
 | [2747-count-zero-request-servers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2747-count-zero-request-servers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3483-unique-3-digit-even-numbers) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1622-fancy-sequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3454-separate-squares-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
@@ -786,4 +789,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0543-diameter-of-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
