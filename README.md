@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2104-sum-of-subarray-ranges) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2568-minimum-impossible-or](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2568-minimum-impossible-or) |
 | [2643-row-with-maximum-ones](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2643-row-with-maximum-ones) |
 | [2747-count-zero-request-servers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2568-minimum-impossible-or](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2568-minimum-impossible-or) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Heap (Priority Queue)
@@ -798,4 +800,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2568-minimum-impossible-or](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2568-minimum-impossible-or) |
 <!---LeetCode Topics End-->
