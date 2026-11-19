@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2104-sum-of-subarray-ranges) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2643-row-with-maximum-ones) |
 | [2747-count-zero-request-servers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3689-maximum-total-subarray-value-i) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2747-count-zero-request-servers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
