@@ -12,7 +12,7 @@ public:
         ans = min(ans,nums[n-1] - nums[2]);
         ans = min(ans,nums[n-2] - nums[1]);
         ans = min(ans,nums[n-3] - nums[0]);
-        ans = min(ans,nums[n-1] - nums[0]);
+        // ans = min(ans,nums[n-1] - nums[0]);
 
         return ans;
     }
