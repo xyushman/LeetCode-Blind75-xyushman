@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1622-fancy-sequence) |
 | [1922-count-good-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1922-count-good-numbers) |
 | [2544-alternating-digit-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2544-alternating-digit-sum) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1975-maximum-matrix-sum) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3689-maximum-total-subarray-value-i) |
