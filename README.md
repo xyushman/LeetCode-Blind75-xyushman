@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3483-unique-3-digit-even-numbers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2747-count-zero-request-servers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3634-minimum-removals-to-balance-array) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3713-longest-balanced-substring-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3713-longest-balanced-substring-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
