@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3612-process-string-with-special-operations-i) |
