@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3330-find-the-original-typed-string-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3330-find-the-original-typed-string-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3340-check-balanced-string](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/xyushman/LeetCode-Blind75-Parth/tree/master/3612-process-string-with-special-operations-i) |
